@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>AI Weather App</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>AI Weather App 🌦</h1>
+        <form id="weather-form" action="/weather" method="post">
+            <label for="location">Enter your location:</label>
+            <input type="text" id="location" name="location" required>
+            <br><br>
+            <input type="submit" value="Get Weather">
+        </form>
+
+        <div id="loading-screen" style="display: none;">
+            <div class="loading-bar">
+                <div class="loading-bar-inner"></div>
+            </div>
+
+            <ul id="options-list" class="options-list"></ul>
+        </div>
+
+        <div id="result-screen" style="display: none;" class="result">
+            <p class="result-message">I don't know, just look outside!</p>
+            <button id="retry-button" class="result-button">Try Again</button>
+        </div>
+    </div>
+    <div class="watermark">
+        Made by Vinit with ❣<br>
+        
+    </div>
+    <div class="github">
+        <a href="https://github.com/your-github-username">
+            <img src="GitHub-logo.png" alt="GitHub Logo" width="40">
+            @vinitrajputt
+        </a>
+    </div>
+    
+
+    <script src="script.js"></script>
+</body>
+</html>
