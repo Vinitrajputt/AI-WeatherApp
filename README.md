@@ -26,7 +26,8 @@ Welcome to the AI Weather App, your go-to source for weather predictions that wi
 
 ## Screenshots
 
-![AI Weather App Screenshot](screenshots/screenshot.png)
+![AI Weather App Screenshot](screenshot/Screenshot1.png)
+![](screenshots/Screenshot2.png)
 
 ## Contributing
 
