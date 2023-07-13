@@ -26,14 +26,14 @@ Welcome to the AI Weather App, your go-to source for weather predictions that wi
 
 ## Screenshots
 
-![AI Weather App Screenshot](https://github.com/Vinitrajputt/AI-WeatherApp/blob/main/screenshot/Screenshot1.png)
-![AI Weather App Screenshot](https://github.com/Vinitrajputt/AI-WeatherApp/blob/main/screenshot/Screenshot2.png)
+AI Weather App Screenshot : https://github.com/Vinitrajputt/AI-WeatherApp/blob/main/screenshot/Screenshot1.png
+AI Weather App Screenshot : https://github.com/Vinitrajputt/AI-WeatherApp/blob/main/screenshot/Screenshot2.png
 
 ## Example Webpage
 
 Check out the example webpage to experience the AI Weather App in action! See how our cutting-edge technology combines with cosmic forces to deliver mind-boggling weather predictions.
 
-🌐 [Webpage]([https://www.example.com](http://aiweatherapp.pythonanywhere.com/))
+🌐 Webpage: https://aiweatherapp.pythonanywhere.com/
 
 Feel free to explore, enter different locations, and marvel at the whimsical forecasts. Please note that the example webpage is for demonstration purposes only and may not reflect real-time weather conditions.
 
